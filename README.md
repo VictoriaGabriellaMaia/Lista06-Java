@@ -1,2 +1,18 @@
 # Lista06-Java
-Array (Vetor) em Java
+
+## Array (Vetor) em Java
+
+1) Leia 10 números inteiros a partir do teclado e os armazene em um vetor. O algoritmo deve:  
+a. Imprimir o vetor lido.  
+b. Apresentar a soma dos números pares armazenados no vetor.  
+c. Imprimir as posições do vetor que armazenam números negativos.  
+d. Imprimir o menor e o maior número informado.  
+e. Imprimir os elementos armazenados nas posições ímpares do vetor.
+
+2) Preencha dois vetores de 10 posições cada a partir do teclado. Some os elementos das posições correspondentes em cada vetor e os armazene num terceiro vetor de 10 posições. Apresente os 3 vetores na tela.
+   
+3) Leia 10 números inteiros a partir do teclado e os armazene em um vetor. O algoritmo deve:  
+a. Somar os 5 números da primeira metade do vetor.  
+b. Somar os 5 números da segunda metade do vetor.  
+c. Calcular a diferença entre a primeira e a segunda soma.  
+d. Apresentar os 3 valores calculados na tela.  
